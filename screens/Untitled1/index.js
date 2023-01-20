@@ -75,11 +75,12 @@ const styles = StyleSheet.create({
   },
   njbNRRuu: {
     width: 400,
-    height: 74
+    height: 102
   },
   QXBqzhKj: {
     width: 107,
-    height: 62
+    height: 62,
+    position: "relative"
   },
   aHRupkSm: {
     backgroundColor: "#ffffff",
